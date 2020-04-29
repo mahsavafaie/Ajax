@@ -1,0 +1,11 @@
+{
+    "desc": null,
+    "language": "english",
+    "name": "raw",
+    "nfiles": 1,
+    "nsents": 0,
+    "ntokens": 0,
+    "parsed": true,
+    "parser": "spacy",
+    "path": "/home/mahsa/work/ajax/raw-parsed"
+}
