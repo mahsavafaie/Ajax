@@ -1,5 +1,6 @@
 Here I provide an exploratory computational analysis of Ajax, and the steps taken for that goal
 
+**The analysis is available in [the accompanying Jupyter Notebook](ajax_analysis.ipynb).**
 
 Key steps:
 
